@@ -1,0 +1,14 @@
+# Streamlit secrets
+.streamlit/
+secrets.toml
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS junk
+.DS_Store
